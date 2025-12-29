@@ -3,9 +3,5 @@
 @plugin "@tailwindcss/typography";
 
 body {
-	background: linear-gradient(
-		to right,
-		#03fbff,
-		#035fff
-	);
+	background: linear-gradient(to right, #03fbff, #035fff);
 }
